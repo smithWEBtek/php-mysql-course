@@ -8,5 +8,6 @@
 
   <body>
     <p>Globe Bank: coming soon</p>
+    <p>Globe Bank: coming soon</p>
   </body>
 </html>
